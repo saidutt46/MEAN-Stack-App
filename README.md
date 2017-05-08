@@ -1,5 +1,5 @@
 # MEAN-Stack-App
-####Complete Functional Authentication and Secured MEAN stack Application
+Complete Functional Authentication and Secured MEAN stack Application
 
 ##### Dowlnoad the File and to install
 ```
@@ -11,4 +11,4 @@ npm install
 node app 
 ```
 
-Any error with PORT, check your localhost port and Run
+Check Your Localhost port: If err
